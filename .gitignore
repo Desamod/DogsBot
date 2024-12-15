@@ -1,0 +1,14 @@
+.env
+
+sessions/
+
+.idea/
+
+__pycache__
+
+*.session
+
+*.cpython-310.pyc
+
+registered_sessions.txt
+
