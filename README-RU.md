@@ -1,6 +1,6 @@
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/dogshouse_bot/join?startapp=q2Hltv27RjGnr1UVipvYIw)
 
-# TVerse Bot
+# Dogs Bot
 ## Рекомендация перед использованием
 
 # 🔥🔥 Используйте PYTHON 3.10 🔥🔥
